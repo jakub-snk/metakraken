@@ -1,7 +1,7 @@
 # MetaKraken pipeline created for the 2024 Clinical Genomics P&S at ETHZ
 
-* Uses the Projects [MetaTrinity](https://github.com/CMU-SAFARI/MetaTrinity) and [kraken2](https://github.com/DerrickWood/kraken2) to increase speed of metagenomic analysis.
-* Tested with ~50GB db built with fna files obtained from [Metalign's](https://github.com/nlapier2/Metalign)\* setup\_db.py script.
+* Uses the Projects [MetaTrinity](https://github.com/CMU-SAFARI/MetaTrinity)\* and [kraken2](https://github.com/DerrickWood/kraken2) to increase speed of metagenomic analysis.
+* Tested with ~50GB db built with fna files obtained from [Metalign's](https://github.com/nlapier2/Metalign) setup\_db.py script.
 * Tested with SRR2584863.fastq file obtained from [NCBI](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR2584863&display=metadata).
 * The results included were obtained using [OPAL](https://github.com/CAMI-challenge/OPAL).
 
