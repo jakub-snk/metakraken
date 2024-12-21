@@ -1,0 +1,216 @@
+tool	rank	metric	sample	value
+Gold standard	superkingdom	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	phylum	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	class	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	order	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	family	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	genus	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	species	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	strain	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	superkingdom	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.10347141544571747
+Gold standard	superkingdom	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.1492776979372983
+Gold standard	phylum	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.11129119042437241
+Gold standard	phylum	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.10130160710226083
+Gold standard	class	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.11129119042437241
+Gold standard	class	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.10130160710226083
+Gold standard	order	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.12427418342149972
+Gold standard	order	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.06935874237351783
+Gold standard	family	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.12427418342149972
+Gold standard	family	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.06935874237351783
+Gold standard	genus	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8523255668864471
+Gold standard	genus	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.35544736943068145
+Gold standard	species	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	2.475913242610748
+Gold standard	species	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5888452419072134
+Gold standard	strain	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	2.475913242610748
+Gold standard	strain	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5888452419072134
+Gold standard	superkingdom	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+Gold standard	superkingdom	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	superkingdom	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	superkingdom	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	superkingdom	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	superkingdom	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	superkingdom	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	phylum	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+Gold standard	phylum	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	phylum	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	phylum	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	phylum	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	phylum	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	phylum	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	class	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+Gold standard	class	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	class	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	class	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	class	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	class	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	class	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	order	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	6.0
+Gold standard	order	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	order	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	order	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	order	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	order	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	order	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	family	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	6.0
+Gold standard	family	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	family	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	family	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	family	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	family	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	family	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	genus	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	11.0
+Gold standard	genus	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	genus	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	genus	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	genus	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	genus	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	genus	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	species	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	67.0
+Gold standard	species	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	species	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	species	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	species	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	species	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	species	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	strain	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	67.0
+Gold standard	strain	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	strain	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	strain	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	strain	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	strain	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	strain	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+Gold standard	superkingdom	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	phylum	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	class	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	order	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	family	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	genus	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	species	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	strain	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	na	Weighted UniFrac error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	na	Unweighted UniFrac error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	na	Weighted UniFrac (CAMI)	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	na	Unweighted UniFrac (CAMI)	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+Gold standard	superkingdom	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8933137000000001
+Gold standard	phylum	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8930149000000001
+Gold standard	class	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8930149000000001
+Gold standard	order	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.893022
+Gold standard	family	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.893022
+Gold standard	genus	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8930146999999999
+Gold standard	species	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8933142
+Gold standard	strain	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8933142
+Gold standard	superkingdom	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+Gold standard	phylum	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+Gold standard	class	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+Gold standard	order	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	6.0
+Gold standard	family	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	6.0
+Gold standard	genus	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	11.0
+Gold standard	species	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	67.0
+Gold standard	strain	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	67.0
+profile.tsv	superkingdom	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3225100776372423
+profile.tsv	phylum	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.33123244949664155
+profile.tsv	class	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.33123244949664155
+profile.tsv	order	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3312359650389258
+profile.tsv	family	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3312359650389258
+profile.tsv	genus	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4412787381841924
+profile.tsv	species	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	0.6532863259668917
+profile.tsv	strain	Bray-Curtis distance	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	superkingdom	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.35772828218650177
+profile.tsv	superkingdom	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	phylum	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3896581897473129
+profile.tsv	phylum	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5621579379902191
+profile.tsv	class	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3896581897473129
+profile.tsv	class	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5621579379902191
+profile.tsv	order	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3896581897473129
+profile.tsv	order	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5621579379902191
+profile.tsv	family	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3896581897473129
+profile.tsv	family	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5621579379902191
+profile.tsv	genus	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.619866303004732
+profile.tsv	genus	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.38514458881315367
+profile.tsv	species	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.619866303004732
+profile.tsv	species	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.38514458881315367
+profile.tsv	strain	Shannon diversity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.619866303004732
+profile.tsv	strain	Shannon equitability	/home/jsienkiewicz/fq/SRR2584863.fastq	0.38514458881315367
+profile.tsv	superkingdom	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	superkingdom	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	superkingdom	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	superkingdom	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	superkingdom	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	superkingdom	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.6666666666666666
+profile.tsv	superkingdom	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	phylum	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	phylum	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	phylum	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	phylum	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3333333333333333
+profile.tsv	phylum	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	phylum	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4
+profile.tsv	phylum	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.25
+profile.tsv	class	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	class	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	class	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	class	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.3333333333333333
+profile.tsv	class	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	class	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4
+profile.tsv	class	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.25
+profile.tsv	order	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	order	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0
+profile.tsv	order	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	order	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.16666666666666666
+profile.tsv	order	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	order	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.25
+profile.tsv	order	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.14285714285714285
+profile.tsv	family	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	family	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0
+profile.tsv	family	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	family	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.16666666666666666
+profile.tsv	family	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5
+profile.tsv	family	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.25
+profile.tsv	family	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.14285714285714285
+profile.tsv	genus	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+profile.tsv	genus	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	8.0
+profile.tsv	genus	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	genus	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.2727272727272727
+profile.tsv	genus	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.6
+profile.tsv	genus	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.37499999999999994
+profile.tsv	genus	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.23076923076923078
+profile.tsv	species	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	species	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	65.0
+profile.tsv	species	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	3.0
+profile.tsv	species	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.029850746268656716
+profile.tsv	species	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4
+profile.tsv	species	F1 score	/home/jsienkiewicz/fq/SRR2584863.fastq	0.05555555555555556
+profile.tsv	species	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.02857142857142857
+profile.tsv	strain	True positives	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	strain	False negatives	/home/jsienkiewicz/fq/SRR2584863.fastq	67.0
+profile.tsv	strain	False positives	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0
+profile.tsv	strain	Completeness	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	strain	Purity	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	strain	Jaccard index	/home/jsienkiewicz/fq/SRR2584863.fastq	0.0
+profile.tsv	superkingdom	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4356907
+profile.tsv	phylum	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4473751
+profile.tsv	class	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4473751
+profile.tsv	order	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4473821999999999
+profile.tsv	family	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.4473821999999999
+profile.tsv	genus	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.5960076999999999
+profile.tsv	species	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.8825488
+profile.tsv	strain	L1 norm error	/home/jsienkiewicz/fq/SRR2584863.fastq	1.3509372
+profile.tsv	na	Weighted UniFrac error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.056164217599999997
+profile.tsv	na	Unweighted UniFrac error	/home/jsienkiewicz/fq/SRR2584863.fastq	0.9380480029535178
+profile.tsv	na	Weighted UniFrac (CAMI)	/home/jsienkiewicz/fq/SRR2584863.fastq	4.6348903977481495
+profile.tsv	na	Unweighted UniFrac (CAMI)	/home/jsienkiewicz/fq/SRR2584863.fastq	530.9999946267475
+profile.tsv	superkingdom	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762300000000006
+profile.tsv	phylum	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	class	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	order	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	family	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	genus	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	species	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	strain	Sum of abundances	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995
+profile.tsv	superkingdom	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	1.0
+profile.tsv	phylum	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	class	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	order	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	family	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	2.0
+profile.tsv	genus	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0
+profile.tsv	species	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0
+profile.tsv	strain	Taxon counts	/home/jsienkiewicz/fq/SRR2584863.fastq	5.0

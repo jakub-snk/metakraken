@@ -1,0 +1,2 @@
+tool	sample	Sum of abundances	Weighted UniFrac error	Unweighted UniFrac error	L1 norm error	Completeness	Purity	F1 score	True positives	False positives	False negatives	Taxon counts	Jaccard index	Shannon diversity	Shannon equitability	Bray-Curtis distance
+profile.tsv	/home/jsienkiewicz/fq/SRR2584863.fastq	0.45762299999999995	0.056164217599999997	0.9380480029535178	0.5960076999999999	0.2727272727272727	0.6	0.37499999999999994	3.0	2.0	8.0	5.0	0.23076923076923078	0.619866303004732	0.38514458881315367	0.4412787381841924

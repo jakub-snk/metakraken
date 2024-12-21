@@ -1,0 +1,345 @@
+taxid	rank	pct	classification	pct_gs	sample	tool
+10239	superkingdom	0.02988	TP	0.02988	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+10662	family	0.00071	TP	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+106654	species	0.01529	TP	0.01529	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+106654.29.1	strain	0.01529	TP	0.01529	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1080067	species	0.00077	TP	0.00077	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1080067.0	strain	0.00077	TP	0.00077	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1169331	species	0.01866	TP	0.01866	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1169331.0	strain	0.01866	TP	0.01866	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1182697	species	0.01665	TP	0.01665	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1182697.0	strain	0.01665	TP	0.01665	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1212820	species	0.00068	TP	0.00068	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1212820.0	strain	0.00068	TP	0.00068	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1224	phylum	89.16869	TP	89.16869	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1236	class	89.16869	TP	89.16869	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1239	phylum	0.1259	TP	0.1259	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1279	genus	0.11633	TP	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1280	species	0.00997	TP	0.00997	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1280.3377.1	strain	0.00997	TP	0.00997	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1282	species	0.02096	TP	0.02096	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1282.236.1	strain	0.02096	TP	0.02096	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1300	family	0.00957	TP	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1301	genus	0.00957	TP	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1307	species	0.00957	TP	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1307.1043.1	strain	0.00957	TP	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1344959	species	0.00046	TP	0.00046	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1353980.1	strain	3.79718	TP	3.79718	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1385	order	0.11633	TP	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1407493	species	0.00071	TP	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1407493.0	strain	0.00071	TP	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1463165	species	0.00191	TP	0.00191	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1463165.57.1	strain	0.00191	TP	0.00191	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1499973	species	0.02346	TP	0.02346	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1499973.1.1	strain	0.02346	TP	0.02346	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1776082	species	1.77577	TP	1.77577	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1779184.0	strain	0.00046	TP	0.00046	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+186826	order	0.00957	TP	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1886514	species	1.42324	TP	1.42324	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1886514.0	strain	1.42324	TP	1.42324	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1890305	species	1.4319	TP	1.4319	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1890305.0	strain	1.4319	TP	1.4319	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898040	species	1.32132	TP	1.32132	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898040.0	strain	1.32132	TP	1.32132	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898678	species	1.368	TP	1.368	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898678.0	strain	1.368	TP	1.368	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898682	species	1.401	TP	1.401	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+1898682.0	strain	1.401	TP	1.401	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2	superkingdom	89.30149	TP	89.30149	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2013114	species	0.00172	TP	0.00172	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2013114.0	strain	0.00172	TP	0.00172	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2026240	species	0.0054	TP	0.0054	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2026240.2.1	strain	0.0054	TP	0.0054	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+204428	phylum	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+204429	class	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2047886	species	0.02281	TP	0.02281	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2047886.0	strain	0.02281	TP	0.02281	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082618	species	4.31904	TP	4.31904	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082618.0	strain	4.31904	TP	4.31904	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082622	species	4.21567	TP	4.21567	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082622.0	strain	4.21567	TP	4.21567	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082626	species	2.36021	TP	2.36021	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082626.0	strain	2.36021	TP	2.36021	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082630	species	0.76979	TP	0.76979	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082630.0	strain	0.76979	TP	0.76979	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082634	species	1.15563	TP	1.15563	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2082634.0	strain	1.15563	TP	1.15563	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+208962	species	0.01139	TP	0.01139	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+208962.43.1	strain	0.01139	TP	0.01139	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093860	species	0.22037	TP	0.22037	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093860.0	strain	0.22037	TP	0.22037	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093864	species	0.23087	TP	0.23087	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093864.0	strain	0.23087	TP	0.23087	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093868	species	0.0055	TP	0.0055	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093868.0	strain	0.0055	TP	0.0055	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093872	species	0.01075	TP	0.01075	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093872.0	strain	0.01075	TP	0.01075	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093876	species	0.02583	TP	0.02583	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093876.0	strain	0.02583	TP	0.02583	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093880	species	0.25834	TP	0.25834	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093880.0	strain	0.25834	TP	0.25834	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093884	species	0.01115	TP	0.01115	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093884.0	strain	0.01115	TP	0.01115	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093888	species	0.01063	TP	0.01063	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093888.0	strain	0.01063	TP	0.01063	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093892	species	0.00906	TP	0.00906	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093892.0	strain	0.00906	TP	0.00906	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093896	species	0.01422	TP	0.01422	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2093896.0	strain	0.01422	TP	0.01422	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116500	species	1.75874	TP	1.75874	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116500.0	strain	1.75874	TP	1.75874	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116504	species	1.76187	TP	1.76187	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116504.0	strain	1.76187	TP	1.76187	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116508	species	1.71496	TP	1.71496	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2116508.0	strain	1.71496	TP	1.71496	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2162662	species	0.0288	TP	0.0288	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2162662.0	strain	0.0288	TP	0.0288	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2163603	species	2.73563	TP	2.73563	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+2163603.0	strain	2.73563	TP	2.73563	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+239364	species	0.00635	TP	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+239364.2.1	strain	0.00635	TP	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+28141	species	0.0012	TP	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+28141.73.1	strain	0.0012	TP	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+28883	order	0.00071	TP	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+28901	species	0.00676	TP	0.00676	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+28901.849.1	strain	0.00676	TP	0.00676	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+35703	species	0.00113	TP	0.00113	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+35703.2.1	strain	0.00113	TP	0.00113	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+413496	genus	0.0012	TP	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+457400	species	4.16156	TP	4.16156	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+457400.0	strain	4.16156	TP	4.16156	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+468	family	0.17345	TP	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+469	genus	0.17345	TP	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+48296	species	0.15817	TP	0.15817	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+48296.60.1	strain	0.15817	TP	0.15817	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+51291	order	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+543	family	88.99524	TP	88.99524	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+544	genus	0.01687	TP	0.01687	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+545	species	0.00343	TP	0.00343	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+545.8.1	strain	0.00343	TP	0.00343	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+546	species	0.00034	TP	0.00034	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+546.76.1	strain	0.00034	TP	0.00034	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+547	genus	2.74197	TP	2.74197	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+54736	species	0.00025	TP	0.00025	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+54736.2.1	strain	0.00025	TP	0.00025	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+550	species	0.00635	TP	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+550.237.1	strain	0.00635	TP	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+561	genus	41.61548	TP	41.61548	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+562	species	23.41266	TP	23.41266	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+562.6348.1	strain	23.41266	TP	23.41266	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+564	species	0.05649	TP	0.05649	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+564.5.1	strain	0.05649	TP	0.05649	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+570	genus	0.0834	TP	0.0834	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+573	species	0.0761	TP	0.0761	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+573.3269.1	strain	0.0761	TP	0.0761	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+57706	species	0.00498	TP	0.00498	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+57706.3.1	strain	0.00498	TP	0.00498	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+590	genus	0.007	TP	0.007	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+61015	species	0.0854	TP	0.0854	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+61015.13.1	strain	0.0854	TP	0.0854	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+620	genus	44.5293	TP	44.5293	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+621	species	4.91514	TP	4.91514	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+621.20.1	strain	4.91514	TP	4.91514	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+622	species	3.79718	TP	3.79718	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+623	species	1.39899	TP	1.39899	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+623.256.1	strain	1.39899	TP	1.39899	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+624	species	4.39154	TP	4.39154	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+624.153.1	strain	4.39154	TP	4.39154	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+625	species	16.06967	TP	16.06967	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+625.16.1	strain	16.06967	TP	16.06967	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+67827	species	0.00337	TP	0.00337	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+67827.4.1	strain	0.00337	TP	0.00337	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+72274	order	0.17345	TP	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+754327	species	0.03013	TP	0.03013	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+754327.0	strain	0.03013	TP	0.03013	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+754333	species	0.03886	TP	0.03886	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+754333.0	strain	0.03886	TP	0.03886	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+809	family	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+810	genus	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+813	species	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+813.60.1	strain	0.0069	TP	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+90964	family	0.11633	TP	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+910237	species	0.19977	TP	0.19977	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+910237.0	strain	0.19977	TP	0.19977	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+91061	class	0.1259	TP	0.1259	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+91347	order	88.99524	TP	88.99524	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+932676.1	strain	1.77577	TP	1.77577	/home/jsienkiewicz/fq/SRR2584863.fastq	Gold standard
+10239	superkingdom		FN	0.02988	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+10662	family		FN	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+106654	species		FN	0.01529	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+106654.29.1	strain		FN	0.01529	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1080067	species		FN	0.00077	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1080067.0	strain		FN	0.00077	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1169331	species		FN	0.01866	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1169331.0	strain		FN	0.01866	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1182697	species		FN	0.01665	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1182697.0	strain		FN	0.01665	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1212820	species		FN	0.00068	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1212820.0	strain		FN	0.00068	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1218112.1	strain	0.20349	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1224	phylum	45.16314	TP	89.16869	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1236	class	45.16314	TP	89.16869	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1239	phylum		FN	0.1259	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1279	genus		FN	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1280	species		FN	0.00997	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1280.3377.1	strain		FN	0.00997	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1282	species		FN	0.02096	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1282.236.1	strain		FN	0.02096	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1300	family		FN	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1301	genus		FN	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1307	species		FN	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1307.1043.1	strain		FN	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1344959	species		FN	0.00046	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1353980.1	strain		FN	3.79718	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1385	order		FN	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1392869.1	strain	37.39666	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1407493	species		FN	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1407493.0	strain		FN	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1421338.1	strain	0.32784	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1440012.1	strain	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1463165	species		FN	0.00191	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1463165.57.1	strain		FN	0.00191	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1499973	species		FN	0.02346	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1499973.1.1	strain		FN	0.02346	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1776082	species		FN	1.77577	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1779184.0	strain		FN	0.00046	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+186826	order		FN	0.00957	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1886514	species		FN	1.42324	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1886514.0	strain		FN	1.42324	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1890305	species		FN	1.4319	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1890305.0	strain		FN	1.4319	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898040	species		FN	1.32132	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898040.0	strain		FN	1.32132	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898678	species		FN	1.368	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898678.0	strain		FN	1.368	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898682	species		FN	1.401	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+1898682.0	strain		FN	1.401	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+194	genus	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+195	species	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2	superkingdom	45.7623	TP	89.30149	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2013114	species		FN	0.00172	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2013114.0	strain		FN	0.00172	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2026240	species		FN	0.0054	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2026240.2.1	strain		FN	0.0054	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+204428	phylum		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+204429	class		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2047886	species		FN	0.02281	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2047886.0	strain		FN	0.02281	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082618	species		FN	4.31904	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082618.0	strain		FN	4.31904	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082622	species		FN	4.21567	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082622.0	strain		FN	4.21567	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082626	species		FN	2.36021	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082626.0	strain		FN	2.36021	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082630	species		FN	0.76979	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082630.0	strain		FN	0.76979	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082634	species		FN	1.15563	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2082634.0	strain		FN	1.15563	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+208962	species		FN	0.01139	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+208962.43.1	strain		FN	0.01139	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093860	species		FN	0.22037	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093860.0	strain		FN	0.22037	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093864	species		FN	0.23087	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093864.0	strain		FN	0.23087	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093868	species		FN	0.0055	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093868.0	strain		FN	0.0055	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093872	species		FN	0.01075	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093872.0	strain		FN	0.01075	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093876	species		FN	0.02583	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093876.0	strain		FN	0.02583	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093880	species		FN	0.25834	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093880.0	strain		FN	0.25834	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093884	species		FN	0.01115	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093884.0	strain		FN	0.01115	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093888	species		FN	0.01063	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093888.0	strain		FN	0.01063	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093892	species		FN	0.00906	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093892.0	strain		FN	0.00906	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093896	species		FN	0.01422	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2093896.0	strain		FN	0.01422	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116500	species		FN	1.75874	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116500.0	strain		FN	1.75874	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116504	species		FN	1.76187	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116504.0	strain		FN	1.76187	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116508	species		FN	1.71496	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2116508.0	strain		FN	1.71496	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+213849	order	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2162662	species		FN	0.0288	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2162662.0	strain		FN	0.0288	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2163603	species		FN	2.73563	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+2163603.0	strain		FN	2.73563	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+239364	species		FN	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+239364.2.1	strain		FN	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+28141	species		FN	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+28141.73.1	strain		FN	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+28883	order		FN	0.00071	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+28901	species	7.23515	TP	0.00676	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+28901.849.1	strain		FN	0.00676	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+29547	phylum	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+3031852	class	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+35703	species		FN	0.00113	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+35703.2.1	strain		FN	0.00113	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+413496	genus		FN	0.0012	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+457400	species		FN	4.16156	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+457400.0	strain		FN	4.16156	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+468	family		FN	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+469	genus		FN	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+48296	species		FN	0.15817	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+48296.60.1	strain		FN	0.15817	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+51291	order		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+543	family	45.16314	TP	88.99524	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+544	genus		FN	0.01687	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+545	species		FN	0.00343	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+545.8.1	strain		FN	0.00343	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+546	species		FN	0.00034	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+546.76.1	strain		FN	0.00034	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+547	genus	0.32784	TP	2.74197	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+54736	species		FN	0.00025	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+54736.2.1	strain		FN	0.00025	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+550	species		FN	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+550.237.1	strain		FN	0.00635	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+561	genus	37.39666	TP	41.61548	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+562	species	37.39666	TP	23.41266	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+562.6348.1	strain		FN	23.41266	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+564	species		FN	0.05649	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+564.5.1	strain		FN	0.05649	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+570	genus		FN	0.0834	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+573	species		FN	0.0761	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+573.3269.1	strain		FN	0.0761	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+57706	species		FN	0.00498	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+57706.3.1	strain		FN	0.00498	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+579	genus	0.20349	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+580	species	0.20349	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+590	genus	7.23515	TP	0.007	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+59201.1	strain	7.23515	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+61015	species		FN	0.0854	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+61015.13.1	strain		FN	0.0854	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+61645	species	0.32784	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+620	genus		FN	44.5293	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+621	species		FN	4.91514	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+621.20.1	strain		FN	4.91514	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+622	species		FN	3.79718	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+623	species		FN	1.39899	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+623.256.1	strain		FN	1.39899	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+624	species		FN	4.39154	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+624.153.1	strain		FN	4.39154	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+625	species		FN	16.06967	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+625.16.1	strain		FN	16.06967	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+67827	species		FN	0.00337	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+67827.4.1	strain		FN	0.00337	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+72274	order		FN	0.17345	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+72294	family	0.59916	FP		/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+754327	species		FN	0.03013	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+754327.0	strain		FN	0.03013	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+754333	species		FN	0.03886	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+754333.0	strain		FN	0.03886	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+809	family		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+810	genus		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+813	species		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+813.60.1	strain		FN	0.0069	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+90964	family		FN	0.11633	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+910237	species		FN	0.19977	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+910237.0	strain		FN	0.19977	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+91061	class		FN	0.1259	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+91347	order	45.16314	TP	88.99524	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
+932676.1	strain		FN	1.77577	/home/jsienkiewicz/fq/SRR2584863.fastq	profile.tsv
