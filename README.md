@@ -7,7 +7,7 @@
 Easiest way to run this project is using Anaconda, most of those packages are obtained from the bioconda channel. Also you need to clone the MetaTrinity and Metalign repositories (by default the scripts assume that the repositories are cloned inside the current working directory).
 
 ```
-conda install -c biopython kmc CMash minimap2 kraken2
+conda install -c conda-forge -c biopython kmc CMash minimap2 kraken2
 ```
 
 Download the desired fna files for comparison into a folder inside your database named "organism_files".
