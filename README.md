@@ -23,4 +23,4 @@ kraken2-build --build --db $DBNAME
 
 After this you should be able to use the run_kraken and run_metalign scripts for comparison.
 
-* Gollwitzer, Arvid E., et al. "MetaTrinity: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation." arXiv:2311.02029 (2023).
+\* Gollwitzer, Arvid E., et al. "MetaTrinity: Enabling Fast Metagenomic Classification via Seed Counting and Edit Distance Approximation." arXiv:2311.02029 (2023).
