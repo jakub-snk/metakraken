@@ -1,10 +1,10 @@
 # MetaKraken pipeline created for the 2024 Clinical Genomics P&S at ETHZ
 
 * Uses the Projects [MetaTrinity](https://github.com/CMU-SAFARI/MetaTrinity) and [kraken2](https://github.com/DerrickWood/kraken2) to increase speed of metagenomic analysis.
-* Tested with 50GB db built with fna files obtained from [Metalign](https://github.com/nlapier2/Metalign) setup\_db.py script.
+* Tested with 50GB db built with fna files obtained from [Metalign's](https://github.com/nlapier2/Metalign) setup\_db.py script.
 * Tested with SRR2584863.fastq file obtained from [NCBI](https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=SRR2584863&display=metadata).
 
-Easiest way to run this project (most of those are obtained from the bioconda channel)
+Easiest way to run this project is using Anaconda, most of those packages are obtained from the bioconda channel. Also you need to clone the MetaTrinity repository (by default the run_kraken.py script assumes that MetaTrinity is cloned inside the current working directory).
 
 ```
 conda install kmc
