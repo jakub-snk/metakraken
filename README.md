@@ -14,7 +14,7 @@ conda install kraken2
 ```
 
 Download the desired fna files for comparison into a folder inside your database named "organism_files".
-After this setup the kraken2 database from those files using those commands from outside the databse folder:
+After this setup the kraken2 database from those files using those commands from outside the databse folder (replacing $DBNAME with your desired database name):
 
 ```
 kraken2-build --download-taxonomy --db $DBNAME
